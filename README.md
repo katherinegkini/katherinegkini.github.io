@@ -1,7 +1,7 @@
 # Katherine Gkini
 
-# About Me
+## About Me
 
-# Education
+## Education
 
-# Interests
+## Interests
